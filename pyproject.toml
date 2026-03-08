@@ -1,0 +1,31 @@
+[project]
+name = "laruche"
+version = "0.1.0"
+description = "A registry of installation and testing instructions for PyPI packages, built by labeille."
+readme = "README.md"
+license = "MIT"
+authors = [
+    { name = "Daniel Diniz", email = "74280297+devdanzin@users.noreply.github.com" },
+]
+keywords = [
+    "pypi",
+    "registry",
+    "testing",
+    "cpython",
+    "jit",
+    "packages",
+    "test-suites",
+]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Topic :: Software Development :: Testing",
+    "Topic :: Software Development :: Quality Assurance",
+]
+
+[project.urls]
+Homepage = "https://github.com/devdanzin/laruche"
+Repository = "https://github.com/devdanzin/laruche"
+"Bug Tracker" = "https://github.com/devdanzin/laruche/issues"
+"labeille" = "https://github.com/devdanzin/labeille"
